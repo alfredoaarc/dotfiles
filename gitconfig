@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = alfredoaarc11@gmail.com
+	name = alfredorico
